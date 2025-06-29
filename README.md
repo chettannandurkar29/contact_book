@@ -35,13 +35,13 @@ A simple and functional *Contact Book* web application built using *HTML, CSS, J
 
 ## 📂 Project Structure
 **contact-book
-│
-├── static
+
+── static
 │ ├── style.css
 │ └── script.js
-│
+
 ├── templates
-│ └── index.html
-│
+ └── index.html
+
 ├── app.py
 └── README.md**
